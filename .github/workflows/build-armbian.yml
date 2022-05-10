@@ -124,6 +124,6 @@ jobs:
             This is Armbian image for Amlogic s9xxx tv box
             * Firmware information
             Default username: root
-            Default password: 1234
+            Default password: lsz950523
             Install command: armbian-install
             Update command: armbian-update
